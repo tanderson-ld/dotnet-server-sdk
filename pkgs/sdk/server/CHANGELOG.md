@@ -1,5 +1,12 @@
 # Changelog
 
+## [8.3.3](https://github.com/tanderson-ld/dotnet-server-sdk/compare/8.3.2...8.3.3) (2024-04-19)
+
+
+### Bug Fixes
+
+* another ([#6](https://github.com/tanderson-ld/dotnet-server-sdk/issues/6)) ([9ccddd8](https://github.com/tanderson-ld/dotnet-server-sdk/commit/9ccddd8e85e225aaa97bd289722dc07bf9c0204f))
+
 ## [8.3.2](https://github.com/tanderson-ld/dotnet-server-sdk/compare/8.3.1...8.3.2) (2024-04-19)
 
 
